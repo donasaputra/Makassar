@@ -1,2 +1,2 @@
 # team-C5
-Web Site mengenai
+Web Site ini travelling khusus membahas pariwisata yang ada di Kota Makasar.
